@@ -87,12 +87,12 @@ global.wm = '© All Team Bot Discussion'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
-global.linkig = 'https://www.instagram.com/p/CH1A1c9J5pY/?utm_medium=copy_link'
-global.linkyt = ''
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.web = 'https://raselcomel.github.io'
-global.web1 = 'https://anu.rasell.repl.co'
+global.linkgc = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe'
+global.linkig = 'https://www.instagram.com/sahrulwara_____'
+global.linkyt = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
+global.linkfb = ''
+global.web = 'https://youtu.be/Y4lDHozWsnI'
+global.web1 = 'https://youtu.be/Y4lDHozWsnI'
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
@@ -100,11 +100,11 @@ global.bodlink = '© All Team Bot Discussion'
 
 //========= Url Template Button =========//
 global.dtu = 'Group Bot WhatsApp'
-global.urlnya = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
+global.urlnya = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe'
 
 //========= Call Template Button =========//
 global.dtc = 'Add Me'
-global.nmbrnya = '+62 822-5604-8971'
+global.nmbrnya = '+62 838-4319-2208'
 
 
 //============ Proses Bot ============//
